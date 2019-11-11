@@ -1,2 +1,2 @@
 # Discription for my proj
-# Contributing
+# For Contributing navigate to the Contribute.cmd
